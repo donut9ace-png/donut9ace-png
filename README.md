@@ -308,7 +308,7 @@ footer strong {
 <nav>
 
     <div class="logo">
-        BREJESH <b>S.</b> COM
+        BREJESH <b> ADVENTURES</b> 
     </div>
 
     <div>
@@ -331,7 +331,7 @@ footer strong {
 
         <h1>
             BREJESH<br>
-            <span class="gradient">S. COM</span>
+            <span class="gradient"> ADVENTURES </span>
         </h1>
 
         <p>
@@ -372,9 +372,9 @@ footer strong {
         max-width:650px;
         line-height:1.7;
     ">
-        Welcome to Brejesh S. Com — a premium corner
-        of the internet dedicated to Brejesh, his adventures,
-        projects and whatever comes next.
+        Welcome to Brejesh Adventures — a premium corner
+        of the internet dedicated to Brejesh the nigga, his adventures,
+        escapedes and whatever comes next.
     </p>
 
 
@@ -390,8 +390,8 @@ footer strong {
             </h3>
 
             <p>
-                High levels of confidence.
-                Questionable levels of sleep.
+                High levels of Nigga.
+                Questionable levels of Gender.
             </p>
 
         </div>
@@ -407,7 +407,7 @@ footer strong {
 
             <p>
                 Cool ideas, experiments and
-                things worth showing off.
+                a black hole that swallows pencils and pens.
             </p>
 
         </div>
